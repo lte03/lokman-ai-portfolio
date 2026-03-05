@@ -10,7 +10,7 @@ export const experiences: ExperienceItem[] = [
   {
     title: 'Computer Engineering Intern',
     company: 'Avşar Maden Suyu',
-    period: '2025 – Present',
+    period: 'Feb 2026 – Present',
     description: [
       'Developing internal software tools to meet factory operational requirements',
       'Testing and maintaining barcode reader systems on the production line',
