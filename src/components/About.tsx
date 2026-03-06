@@ -79,7 +79,7 @@ export default function About() {
                 <p className="pl-4 text-[#f0d6a2]">B.Eng Computer Engineering, 2022 - present</p>
                 <p className="pt-2">
                   <span className="text-accent-soft">➜</span>{' '}
-                  <span className="text-accent-to">signals</span>
+                  <span className="text-accent-to">awards</span>
                 </p>
                 <p className="pl-4 text-[#d6fff3]">2nd Place - Trendyol Hackathon 2025</p>
                 <p className="pl-4 text-[#d6fff3]">Top 10% - ING Datathon</p>
